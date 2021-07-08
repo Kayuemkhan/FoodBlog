@@ -48,7 +48,7 @@ body{
     
 }
 #middle{
-    background-image: url(/images/frame58.jpg);
+    background-image: url(images/frame58.jpg);
     height: 400px;
     background-size: contain;
     border-radius: 10px;
@@ -58,7 +58,7 @@ body{
 
 }
 #left_middle{
-    background-image: url(/images/young-guy-holding-fresh-burger_79782-176-removebg-preview.png);
+    background-image: url(images/young-guy-holding-fresh-burger_79782-176-removebg-preview.png);
     height: 400px;
     background-size: cover;
 	width: 50%;
