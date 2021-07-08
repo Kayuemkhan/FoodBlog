@@ -54,6 +54,7 @@ body{
     border-radius: 10px;
     width: 100%;
     display: flex;
+    margin-bottom: 50px;
 
 }
 #left_middle{
@@ -79,5 +80,21 @@ body{
     height: 30px;
     border-radius: 10px;
     text-decoration: none;
+    
+}
+#middle_below{
+    color: #515151;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+
+}
+#my_recipies{
+    
+    
+}
+#my_recipies_msg{
+    margin-left: 30%;
+    margin-right: 30%;
     
 }
