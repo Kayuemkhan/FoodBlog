@@ -1,0 +1,83 @@
+#food_color{
+    color: #A3080C;
+}
+
+body{
+    background: #FFFFFF;
+    margin: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+
+}
+#top{
+    margin-bottom: 50px;
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    height: 300px;
+}
+#left{
+    float: left;
+    width: 80%;
+}
+#right{
+    margin-left: 50px;
+    width: 20%;
+
+}
+#food_message{
+    color: #515151;
+}
+#img1{
+    height: 250px;
+    width: 80%;
+    align-items: flex-end;
+    background-size: contain;
+    
+    
+    
+}
+#btn1{
+    background-image: linear-gradient(red,yellow);
+    background: #A3080C;
+    color: white;
+    padding: 10px;
+    height: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+#middle{
+    background-image: url(/images/frame58.jpg);
+    height: 400px;
+    background-size: contain;
+    border-radius: 10px;
+    width: 100%;
+    display: flex;
+
+}
+#left_middle{
+    background-image: url(/images/young-guy-holding-fresh-burger_79782-176-removebg-preview.png);
+    height: 400px;
+    background-size: cover;
+	width: 50%;
+    background-repeat: no-repeat;
+}
+#middle_middle{
+    width: 10%;
+}
+#right_middle{
+    width: 40%;
+    color: #515151;
+    padding-right: 50px;
+}
+#btn2{
+    background-image: linear-gradient(red,yellow);
+    background: #A3080C;
+    color: white;
+    padding: 10px;
+    height: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
