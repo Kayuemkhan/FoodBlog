@@ -98,3 +98,51 @@ body{
     margin-right: 30%;
     
 }
+#food_felx{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #000;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    height: 400px;
+    display: flex;
+}
+#left_flex{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 100%;
+    width: 30%;
+    margin-right: 5%;
+}
+#upper_first{
+    height: 50%;
+    width: 90%;
+    padding: 10px;
+}
+#recipe_details{
+    width:90% ;
+    padding-left: 20px;
+    padding-right: 10px;
+    text-align: justify;
+}
+#middle_flex{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 100%;
+    width: 30%;
+    margin-right: 5%;
+}
+#right_flex{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 100%;
+    width: 30%;
+}
+#third_one{
+    height: 50%;
+    width: 90%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
